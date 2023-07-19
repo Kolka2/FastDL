@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "fy_stoneworld_obe/obe2k5"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "obe"
+}
