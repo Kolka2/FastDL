@@ -42,7 +42,7 @@
 
 ## Fight Yard
 
-- \$2000\$
+- 2000$
 - fy_TwoTowers
 - fy_day_jungle_v1_fix
 - fy_lego
