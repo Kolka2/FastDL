@@ -1,5 +1,7 @@
 # Map list
 
+## Combat/Skill
+
 - *420_shotguns*
 - *aim_47th_v2*
 - *aim_ag_texture2*
