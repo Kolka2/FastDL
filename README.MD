@@ -29,12 +29,13 @@
 
 ## Bomb/Defuse
 
-- de_ancient
+- de_ancient_css
 - de_cache
 - de_mirage_rc1
 - de_mirage_tsu_d
 - de_nightfever
 - de_rats
+- de_season
 - de_tuscan
 - de_vegas_css
 - de_vertigo
