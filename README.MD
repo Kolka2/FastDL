@@ -1,6 +1,13 @@
-# Map list
+# Counter-Strike: Source Dedicated Server Guide
 
-## Combat/Skill
+## TODO
+
+- Sort and clear maps (`mapcycle.txt`)
+- Server cfg for: casual, fight yards, matchmaking, deathmatch, gungame
+
+## Map list
+
+### Combat/Skill
 
 - *420_shotguns*
 - *aim_47th_v2*
@@ -10,24 +17,24 @@
 - *aim_usp_v2*
 - tsv1.bsp
 
-## AWP Maps
+### AWP Maps
 
 - awp_gony_css
 - awp_india
 - awp_lego_2b
 
-## Bhop Maps
+### Bhop Maps
 
 - bhop_eazy
 - bhop_eazy_v2
 
-## Hostage Rescue
+### Hostage Rescue
 
 - cs_747_css
 - cs_central
 - cs_cs16_assault
 
-## Bomb/Defuse
+### Bomb/Defuse
 
 - de_ancient_css
 - de_cache
@@ -41,7 +48,7 @@
 - de_vertigo
 - de_westwood
 
-## Fight Yard
+### Fight Yard
 
 - 2000$
 - fy_TwoTowers
@@ -51,16 +58,16 @@
 - fy_poolparty_Lukas
 - fy_stoneworld_obe
 
-## Gun Game
+### Gun Game
 
 - gg_factory
 - gg_fy_snow
 - gg_streams
 
-## Surf
+### Surf
 
 - surf_beginner
 
-## Training
+### Training
 
 - training_aim3
