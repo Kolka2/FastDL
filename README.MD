@@ -21,6 +21,7 @@
 
 - awp_gony_css
 - awp_india
+- awp_lego_2_xmas2021
 - awp_lego_2b
 
 ### Bhop Maps
@@ -33,16 +34,27 @@
 - cs_747_css
 - cs_central
 - cs_cs16_assault
+- cs_motel
+- cs_thunder2006
 
 ### Bomb/Defuse
 
 - de_ancient_css
+- de_anubis_css
+- de_bedroom
 - de_cache
+- de_cbble_go
+- de_cpl_strike
+- de_dust2_xmas08
+- de_lake_csgo
 - de_mirage_rc1
 - de_mirage_tsu_d
+- de_mirage_xmas
 - de_nightfever
 - de_rats
+- de_ruins
 - de_season
+- de_shorttrain_css
 - de_tuscan
 - de_vegas_css
 - de_vertigo
