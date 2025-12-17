@@ -1,3 +1,0 @@
-cstrike/maps/wm_rialto.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
-cstrike/maps/de_seaside.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
-cstrike/maps/de_overpass_csgo.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
