@@ -48,7 +48,6 @@
 - de_dust2_xmas08
 - de_lake_csgo
 - de_mirage_rc1
-- de_mirage_tsu_d
 - de_mirage_xmas
 - de_nightfever
 - de_rats
