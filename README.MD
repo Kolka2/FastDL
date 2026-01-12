@@ -35,6 +35,7 @@
 - cs_central
 - cs_cs16_assault
 - cs_motel
+- cs_office_extended
 - cs_thunder2006
 
 ### Bomb/Defuse
@@ -45,6 +46,7 @@
 - de_cache
 - de_cbble_go
 - de_cpl_strike
+- de_dust2_unlimited
 - de_dust2_xmas08
 - de_lake_csgo
 - de_mirage_rc1
