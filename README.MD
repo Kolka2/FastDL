@@ -46,6 +46,7 @@
 - de_cache
 - de_cbble_go
 - de_cpl_strike
+- de_contra
 - de_dust2_unlimited
 - de_dust2_xmas08
 - de_lake_csgo
