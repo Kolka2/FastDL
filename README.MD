@@ -45,8 +45,10 @@
 - de_bedroom
 - de_cache
 - de_cbble_go
-- de_cpl_strike
 - de_contra
+- de_cpl_fire
+- de_cpl_mills
+- de_cpl_strike
 - de_dust2_unlimited
 - de_dust2_xmas08
 - de_lake_csgo
@@ -57,6 +59,7 @@
 - de_ruins
 - de_season
 - de_shorttrain_css
+- de_strike_mirage
 - de_tuscan
 - de_vegas_css
 - de_vertigo
